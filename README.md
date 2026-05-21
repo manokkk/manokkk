@@ -86,6 +86,11 @@
 
 <br/>
 
+<h2 align="center">🐔 Contribution Manok</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-contribution-grid-snake.svg" alt="Chicken picking grains" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
 </p>
