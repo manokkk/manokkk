@@ -84,7 +84,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=manokkk)
 <br/>
 
 <p align="center">
