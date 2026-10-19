@@ -102,7 +102,7 @@
 
 <br/>
 
-<h2 align="center">🕹️ Contribution Arcade</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-snake.svg" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-snake.svg" alt="Neon Contribution Snake" />
 </p>
