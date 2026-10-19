@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Radical Neon Contribution Graph
 
 on:
   schedule:
@@ -13,18 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
-    # 👇 THIS IS THE FIX: Granting permission to push the image to your repo
     permissions: 
       contents: write 
       
     steps:
-      - name: Generate Pac-Man Snake
+      - name: Generate Neon Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # RADICAL PALETTE: Dark background, bright pink snake, cyan/purple/pink gradient dots
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=#FFFF00&color_dots=#161b22,#ffffff,#ffb8ae,#ff9c2a,#ff0000
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFFF00&color_dots=#161b22,#ffffff,#ffb8ae,#ff9c2a,#ff0000
+            dist/github-snake.svg?palette=github-dark&color_snake=#fe428e&color_dots=#141321,#a9fef7,#2bdfc1,#a020f0,#fe428e
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#fe428e&color_dots=#141321,#a9fef7,#2bdfc1,#a020f0,#fe428e
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
