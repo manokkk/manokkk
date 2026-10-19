@@ -106,3 +106,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-contribution-grid-snake.svg" alt="Chicken picking grains" />
 </p>
+
+<h2 align="center">🐍 Contribution Activity</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-snake.svg" alt="Neon Snake Animation" />
+</p>
