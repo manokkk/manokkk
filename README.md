@@ -23,24 +23,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <!-- REPLACE THE HREF WITH YOUR PROJECT LINK -->
-  <a href="https://github.com/manokkk/YOUR-3D-CITY-REPO">
-    <!-- REPLACE THE SRC WITH THE FULL RAW GITHUB LINK TO YOUR UPLOADED GIF -->
-    <img src="https://raw.githubusercontent.com/manokkk/manokkk/main/3d-city.gif" alt="3D City View" width="48%" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- SPACE SHOOTER -->
-  <a href="https://github.com/czl9707/gh-space-shooter">
-    <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <em>🏙️ 3D City View (Left) &nbsp;&nbsp; | &nbsp;&nbsp; 🛸 Space Shooter (Right)</em><br/>
-  <em>Click the previews to view the repositories!</em>
-</p>
 
 ---
 
