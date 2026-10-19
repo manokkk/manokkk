@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Manokkk</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mico (aka Manokkk)</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
@@ -7,20 +7,44 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/manokkk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manokkk&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="manokkk's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=manokkk&theme=radical&hide_border=true&cache_seconds=86400" alt="manokkk's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=manokkk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manokkk's GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <!-- Replace the # with your actual links -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+## 👨‍💻 About Me
+* 🔭 I’m currently working on **Full Stack Web Applications**
+* 🌱 I’m currently learning **Advanced Cloud Deployment & DevOps**
+* 👯 I’m looking to collaborate on **Open Source Projects**
+* ⚡ Fun fact: **I love combining creative front-end visuals with solid back-end architecture.**
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏙️ 3D City View</h3>
+      <a href="#">
+        <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+      </a>
+      <p><em>An interactive 3D rendering project. (Click to view repository)</em></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛸 Space Shooter</h3>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="100%" />
+      </a>
+      <p><em>A retro-style space shooter built from scratch. (Click to view repository)</em></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -33,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -44,7 +67,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
@@ -52,7 +74,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
@@ -60,14 +81,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
@@ -75,13 +94,25 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
 </p>
 
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/manokkk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manokkk&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="manokkk's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=manokkk&theme=radical&hide_border=true&cache_seconds=86400" alt="manokkk's GitHub Streak" width="49%" />
+</p>
 <p align="center">
   <a href="https://github.com/manokkk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manokkk&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=manokkk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manokkk's GitHub Trophies" />
 </p>
 
 <br/>
@@ -89,8 +120,4 @@
 <h2 align="center">🐔 Contribution Manok</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-contribution-grid-snake.svg" alt="Chicken picking grains" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
 </p>
