@@ -25,18 +25,19 @@
 
 ## 🚀 Featured Projects
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <h3>🏙️ 3D City View</h3>
-      <a href="#">
-        <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+      <a href="LINK_TO_YOUR_3D_CITY_REPO">
+        <!-- REPLACE THE SRC BELOW WITH THE ACTUAL RAW GITHUB LINK TO YOUR GIF -->
+        <img src="https://raw.githubusercontent.com/manokkk/YOUR_REPO_NAME/main/3d-city.gif" alt="3D City View Preview" width="100%" />
       </a>
       <p><em>An interactive 3D rendering project. (Click to view repository)</em></p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <h3>🛸 Space Shooter</h3>
-      <a href="#">
+      <a href="https://github.com/czl9707/gh-space-shooter">
         <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="100%" />
       </a>
       <p><em>A retro-style space shooter built from scratch. (Click to view repository)</em></p>
