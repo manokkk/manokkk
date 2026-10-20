@@ -30,6 +30,25 @@
 
 ---
 
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <a href="https://github.com/manokkk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manokkk&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="manokkk's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=manokkk&theme=radical&hide_border=true&cache_seconds=86400" alt="manokkk's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <a href="https://github.com/manokkk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manokkk&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=manokkk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manokkk's GitHub Trophies" />
+</p>
+
+---
+
 <p align="center">
 
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
@@ -90,22 +109,7 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <a href="https://github.com/manokkk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manokkk&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="manokkk's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=manokkk&theme=radical&hide_border=true&cache_seconds=86400" alt="manokkk's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <a href="https://github.com/manokkk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manokkk&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=manokkk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manokkk's GitHub Trophies" />
-</p>
 
 <br/>
 
