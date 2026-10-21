@@ -2,12 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=manokkk">
-    <img src="https://komarev.com/ghpvc/?username=manokkk&label=Profile%20views&color=00FFFF&style=flat-square" alt="manokkk's profile views" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mico-gianan-6282951a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
