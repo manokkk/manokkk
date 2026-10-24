@@ -16,11 +16,7 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
-* 🔭 I’m currently working on **Full Stack Web Applications**
-* 🌱 I’m currently learning **Advanced Cloud Deployment & DevOps**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* ⚡ Fun fact: **I love combining creative front-end visuals with solid back-end architecture.**
+
 
 ---
 
