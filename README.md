@@ -1,5 +1,14 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Manokkk</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mico (aka Manokkk)</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=manokkk">
+    <img src="https://komarev.com/ghpvc/?username=manokkk&label=Profile%20views&color=00FFFF&style=flat-square" alt="manokkk's profile views" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mico-gianan-6282951a7/" target="_blank">
@@ -16,7 +25,19 @@
   </a>
 </p>
 
+---
 
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/czl9707/gh-space-shooter" target="_blank">
+    <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="70%" />
+  </a>
+</p>
+<p align="center">
+  <em>🛸 Space Shooter</em><br/>
+  <em>A retro-style space shooter. Click the GIF to view the repository!</em>
+</p>
 
 ---
 
@@ -35,14 +56,6 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=manokkk&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manokkk's GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
-
 </p>
 
 ---
@@ -98,8 +111,6 @@
 </p>
 
 ---
-
-
 
 <br/>
 
