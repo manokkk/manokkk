@@ -30,13 +30,13 @@
 ## 🚀 Featured Project
 
 <p align="center">
-  <a href="https://github.com/czl9707/gh-space-shooter" target="_blank">
-    <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" width="70%" />
-  </a>
-</p>
-<p align="center">
-  <em>🛸 Space Shooter</em><br/>
-  <em>A retro-style space shooter. Click the GIF to view the repository!</em>
+
+
+
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
+
+
+
 </p>
 
 ---
