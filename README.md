@@ -105,6 +105,14 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Developer Joke" />
+</p>
+
+<br/>
+
+<br/>
+
 <h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-snake.svg?v=2" alt="Neon Contribution Snake" />
