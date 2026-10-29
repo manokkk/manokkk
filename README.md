@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
 </p>
 
----
+------------------------------------------
 
 ## 🛠️ Languages & Tools
 
@@ -110,7 +110,7 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
 
----
+------------------------------------------
 
 <br/>
 
@@ -119,14 +119,7 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Developer Joke" />
 </p>
 
-<br/>
-
-<h2 align="center">📈 Recent Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manokkk&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<br/>
+------------------------------------------
 
 <h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
