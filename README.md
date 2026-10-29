@@ -112,8 +112,6 @@
 
 ------------------------------------------
 
-<br/>
-
 <h2 align="center">Daily Dev Jokes</h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Developer Joke" />
