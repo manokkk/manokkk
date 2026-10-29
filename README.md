@@ -123,7 +123,7 @@
 
 <h2 align="center">📈 Recent Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manokkk&theme=radical&hide_border=true&bg_color=141321" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manokkk&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <br/>
