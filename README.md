@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mico (aka Manokkk)</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Manokkk </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -25,7 +25,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -35,7 +34,6 @@
 - ⚡ Fun fact: **I spend an unreasonable amount of time optimizing my development toolchain and trying to redesign every interface into a perfect dark-mode terminal aesthetic.**
 
 ---
-
 
 ## 📊 GitHub Stats & Trophies
 
@@ -123,11 +121,12 @@
 
 <br/>
 
-<br/>
 <h2 align="center">📈 Recent Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manokkk&theme=radical&hide_border=true&bg_color=141321" alt="Activity Graph" width="100%" />
 </p>
+
+<br/>
 
 <h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
