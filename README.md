@@ -26,6 +26,17 @@
 </p>
 
 
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working as a **Main Developer of Full-Stack Web & Mobile Applications**, specializing in seamless integrations with databases like **Supabase and Firebase**.
+- 🌱 I’m currently expanding my knowledge in **DevOps and Cloud Infrastructure**, specifically working with Docker, AWS CloudWatch, and ECS task deployments.
+- 💬 Ask me about **front-end frameworks, back-end architecture, and crafting modern dark-mode UIs**.
+- ⚡ Fun fact: **I spend an unreasonable amount of time optimizing my development toolchain and trying to redesign every interface into a perfect dark-mode terminal aesthetic.**
+
+---
+
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
