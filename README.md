@@ -123,3 +123,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/manokkk/manokkk/output/github-snake.svg?v=2" alt="Neon Contribution Snake" />
 </p>
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Retro Alien" width="35" height="35" />
+</p>
+<p align="center"><em>End of terminal line.</em></p>
