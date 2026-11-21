@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=manokkk">
-    <img src="https://komarev.com/ghpvc/?username=manokkk&label=Profile%20views&color=00FFFF&style=flat-square" alt="manokkk's profile views" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mico-gianan-6282951a7/" target="_blank">
