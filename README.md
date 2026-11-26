@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Manokkk </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
